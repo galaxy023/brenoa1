@@ -1,6 +1,6 @@
 var xhr = new XMLHttpRequest();
 
-xhr.open('GET', 'https://ea3baf39-e1e9-4737-9c28-8a869b79c933-00-1spc09uux8b1t.riker.repl.co/', true);
+xhr.open('GET', 'https://replit.com/replid/9ccfe0f2-49e8-4132-b5c7-8855c2585cf1', true);
 
 xhr.onload = function() {
   if (xhr.status >= 200 && xhr.status < 300) {
